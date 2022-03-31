@@ -50,7 +50,7 @@ nbformat==5.2.0
 nest-asyncio==1.5.4
 netifaces==0.11.0
 notebook==6.4.10
-numpy==1.22.3
+numpy
 opencv-python-headless==4.5.5.64
 packaging==21.3
 pandas==1.4.1
