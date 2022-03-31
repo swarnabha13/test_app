@@ -45,7 +45,7 @@ netifaces==0.11.0
 notebook==6.4.10
 opencv-python-headless==4.5.5.64
 packaging==21.3
-pandas==1.4.1
+pandas
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
